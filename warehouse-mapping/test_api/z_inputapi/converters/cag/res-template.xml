@@ -1,0 +1,33 @@
+<MaXML_Envelope version="0200" xmlns="http://www.consafelogistics.com/astro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.masystem.com/Astro ../../../../mastd/xsd/MaXMLDoc/0200_PickRoundSync_0100.xsd">
+    <PickRoundSync version="0100">
+        <ControlArea>
+            <Sender>
+                <LogicalId>astrotst</LogicalId>
+                <ComponentId>0</ComponentId>
+                <Confirmation>0</Confirmation>
+            </Sender>
+            <CreationDateTime>0</CreationDateTime>
+            <ReferenceId>
+                <Id>0</Id>
+            </ReferenceId>
+        </ControlArea>
+        <DataArea>
+            <PickRoundSync>
+                <SyncExpression action="Change"/>
+                <PickRound>
+                    <IsOptimized>1</IsOptimized>
+                    <PickRoundId>0</PickRoundId>
+                    <MobileUnitId>0</MobileUnitId>
+                    <DistRequest>0</DistRequest>
+                    <DistResponse>0</DistResponse>
+                    <TimeToOptimize>0</TimeToOptimize>
+                    <IsPickDirectionClockwise>0</IsPickDirectionClockwise>
+                    <IsReroute>0</IsReroute>
+                    <RerouteStart/>
+                    <PickLocationList>
+                    </PickLocationList>
+                </PickRound>
+            </PickRoundSync>
+        </DataArea>
+    </PickRoundSync>
+</MaXML_Envelope>

@@ -1,0 +1,31 @@
+{
+  "requestType": "PICK_ROUTE_OPTIMIZATION",
+  "version": {
+    "wms": null,
+    "schemaVersion": null,
+    "warehouse": null
+  },
+  "requestData": {
+    "rerouteStartLocation": {
+      "rackIdentifier": null,
+      "rackLocationIdentifier_2": null,
+      "rackLocationIdentifier_1": null,
+      "materialHandlingSection": null
+    },
+    "returnPickerHints": false,
+    "mobileUnitIdentifier": null,
+    "pickRoundIdentifier": null,
+    "userIdentifier": null,
+    "pickLocations": null,
+    "isClockwise": null,
+    "isReroute": null
+  },
+  "warehouseManagementSystemControl": {
+    "requestType": null,
+    "requestIdentifier": null,
+    "requestCreationDateTime": null,
+    "sender": {
+      "warehouseIdentifier": null
+    }
+  }
+}
