@@ -1,4 +1,4 @@
-Flask==1.1.1
+Flask==2.3.2
 numpy==1.17.2
 protobuf==3.10.0
 pydash==4.7.5
