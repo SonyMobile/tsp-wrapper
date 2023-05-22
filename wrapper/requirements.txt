@@ -3,4 +3,4 @@ numpy==1.17.2
 protobuf==3.10.0
 pydash==4.7.5
 pymysql==0.9.3
-requests==2.22.0
+requests==2.31.0
